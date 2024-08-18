@@ -8,7 +8,7 @@ register_heif_opener()
 
 in_directory = input('Input directory: ')
 out_directory = input('Output directory: ')
-file_ext = input('Convert to (jpg, png, bmp, ...): ')
+file_ext = input('Output extension (jpg, png, bmp, ...): ')
 
 makedirs(out_directory, exist_ok=True)
 
