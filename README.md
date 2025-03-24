@@ -1,4 +1,4 @@
-# Python HEIC Convert
+# HEIC Converter
 
 A simple tool for converting HEIC to other image formats while preserving EXIF data in batch.
 
