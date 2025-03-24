@@ -1,6 +1,6 @@
 # HEIC Converter
 
-A simple tool for converting HEIC to other image formats while preserving EXIF data in batch.
+A simple tool for batch converting HEIC to other image formats while preserving EXIF data.
 
 ## Getting Started
 
